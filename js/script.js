@@ -263,3 +263,8 @@ jQuery(function ($) {
 
 
 });
+
+// Set your publishable key: remember to change this to your live publishable key in production
+// See your keys here: https://dashboard.stripe.com/apikeys
+const stripe = Stripe('pk_test_51NHDetQdfDbUrEL7a3vx9vc5YaiwHe9gJegg45Jt4kouFp5flGRdms4ILMs3kZ8NozEHz7xnrB7sk60SsgCmm43M00Y5mpX1Gt');
+const elements = stripe.elements();
