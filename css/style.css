@@ -1630,7 +1630,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .ts-facts .ts-facts-content .ts-facts-num {
-  color:#880808;
+  color:#FFFFFF;
   font-size: 44px;
   margin: 30px 0 20px;
 }
@@ -1684,7 +1684,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 /* Service box bg */
 .ts-service-box-bg {
   background: #252525;
-  color: #880808;
+  color: 	#FFFFFF;
   padding: 30px;
 }
 
