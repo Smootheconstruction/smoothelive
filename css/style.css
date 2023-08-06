@@ -1690,7 +1690,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 
 .ts-service-box-bg h4,
 .ts-service-box-bg h3 {
-  color: #fff;
+  color: #FF0000;
 }
 
 /* Service box 
@@ -1699,7 +1699,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .ts-service-box .ts-service-icon i {
   font-size: 24px;
   float: left;
-  color: #fff;
+  color: #FF0000;
   background: $color-primary;
   border-radius: 100%;
   width: 60px;
