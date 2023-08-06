@@ -828,7 +828,7 @@ ul.top-info-box > li.nav-search i {
   top: 10px;
   position: relative;
   cursor: pointer;
-  color: #999;
+  color:#880808;
 }
 
 /* Main navigation */
@@ -1630,7 +1630,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .ts-facts .ts-facts-content .ts-facts-num {
-  color: #fff;
+  color:#880808;
   font-size: 44px;
   margin: 30px 0 20px;
 }
@@ -1684,7 +1684,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 /* Service box bg */
 .ts-service-box-bg {
   background: #252525;
-  color: #fff;
+  color: #880808;
   padding: 30px;
 }
 
